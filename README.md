@@ -1,2 +1,3 @@
-# future-toursim
-a slidehow
+# future-tourism
+
+just a slideshow
