@@ -2,8 +2,8 @@
 title: "Examining the Future Tourism Program"
 subtitle: "A move to accelerate technology adoption and innovative use"  
 author: 
-  - "Tobago House and Tourism Assox"
-  - "Environment Tobago NGO"
+  - "Bertrand Bhikarry"
+  - "Sean McCoon"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -118,18 +118,20 @@ Tourism is the sector most affected by COVID. **Recovery** will accelerate touri
 ![](IDB-FTP_files/figure-html/ftp.png)
 
 ---
-layout: false
+layout: true
 
 ## Framing
 
 >"Towards the resolution of resilience, competitiveness, and socio-environmental sustainability challenges in LAC tourist destinations. As well as to stimulate coordination of the regional tourism ecosystem".
 
+In other words. **A rising tide lifts all ships**
+
 ---
 layout: false
 
-## Square image
+## New Square image
 
-<center><img src="IDB-FTP_files/figure-html/pppcountries.png" alt="GithHub Octocat" height="500px" /></center>
+<center><img src="IDB-FTP_files/figure-html/pppcountries.png" alt="Borrower countries" height="500px" /></center>
 
 ---
 
@@ -178,11 +180,11 @@ $0
 
 What do the beneficiary destinations get?
 
-Each selected destination will obtain:
+Each destination selected will obtain:
 
-- A personalized diagnosis of its level of technological readiness, based on its main challenges (*prioritized by the destinations themselves*); 
+- A **personalized diagnosis of its level of technological readiness**, based on its main challenges (*prioritized by the destinations themselves*); 
 
-- A detailed action and pre-investment plan (*agreed between the public and private sector*) to accelerate technological assimilation at the destination. 
+- **A detailed action and pre-investment plan** (*agreed between the public and private sector*) to accelerate technological assimilation at the destination. 
 
 .footnote[Ten (10) destinations will be selected from; Trinidad and Tobago, Argentina, Barbados, Bahamas, Belize, Brazil, Bolivia, Nicaragua, Mexico, Jamaica, Honduras, Haiti, Guyana, Guatemala, El Salvador, Ecuador, Costa Rica, Columbia and Chile.]
 
@@ -191,11 +193,11 @@ Each selected destination will obtain:
 
 Applicant (beneficiary destinations) must have;
 
-1. A tourism org (*like TTAL, THATA*)
+1. A tourism org (*like Tourism Div, TTAL, THATA*)
 
 1. Duly signed letters of interest from key stakeholder groups
 
-1. A dedicated team with active private-public sector reps.
+1. A dedicated team with active private-public sector involvement.
 
 1. a diagnosis of the destination (*ESG considerations*)
 
