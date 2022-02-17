@@ -1,6 +1,6 @@
 ---
-title: "Examining the Future Tourism Program"
-subtitle: "A move to accelerate technology adoption and innovative use"  
+title: "Examining the IADB's Future Tourism Program"
+subtitle: "A move to accelerate technology adoption and innovative use in Latin and Central tAmerica and the Caribbean"  
 author: 
   - "Bertrand Bhikarry"
   - "Sean McCoon"
@@ -129,7 +129,7 @@ In other words. **A rising tide lifts all ships**
 ---
 layout: false
 
-## New Square image
+## The IDB footprint
 
 <center><img src="IDB-FTP_files/figure-html/pppcountries.png" alt="Borrower countries" height="500px" /></center>
 
@@ -173,7 +173,7 @@ $0
 [my Link to briefing](https://www.google.com/url?q=https://iadb-org.zoom.us/w/92586696123?tk%3DwRDKF3AmrlWlNGVhVWiFyXj1RoSgeU1nWPomUfU-dYI.DQMAAAAVjpjduxY0RFQxVHlnOFIwYUItQ3dzSG0xaktBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%26uuid%3DWN_vjtcQvGCSKid4qCQkyCdtQ&sa=D&source=calendar&ust=1644518439020737&usg=AOvVaw0SiBcXCN-QAvnSVBkn1mxs)
 ]
 <!--- briefing link best obtained by registering--->
-.footnote[This Technical Cooperation (TC) aims to generate methodological and operational instruments that contribute to the digitization of the LAC tourism sector to reactivate tourism activity under the new context posed by the COVID19 pandemic, as well as to respond to sectoral challenges of structure.]
+.footnote[This Technical Cooperation (TC) aims to generate **methodological and operational** instruments that contribute to the digitization of the LAC tourism sector to reactivate tourism activity under the new context posed by the COVID19 pandemic, as well as to respond to sectoral challenges of structure.]
 ---
 
 ## Of importance
