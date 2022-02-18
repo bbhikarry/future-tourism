@@ -43,24 +43,22 @@
   --header-h3-font-size: 1.75rem;
 
   /* Colors */
-  --text-color: #000000;
-  --header-color: #000000;
-  --background-color: #FFFFFF;
+  --text-color: #FCFDFF;
+  --header-color: #333CFF;
+  --background-color: #000000;
   --link-color: #333CFF;
   --text-bold-color: #333CFF;
   --code-highlight-color: rgba(255,255,0,0.5);
-  --inverse-text-color: #FFFFFF;
+  --inverse-text-color: #000000;
   --inverse-background-color: #333CFF;
   --inverse-header-color: #FFFFFF;
   --inverse-link-color: #333CFF;
   --title-slide-background-color: #000000;
-  --title-slide-text-color: #FFFFFF;
-  --header-background-color: #000000;
-  --header-background-text-color: #FFFFFF;
+  --title-slide-text-color: #333CFF;
+  --header-background-color: #333CFF;
+  --header-background-text-color: #000000;
   --primary: #000000;
   --secondary: #333CFF;
-  --white: #FFFFFF;
-  --black: #000000;
 }
 
 html {
@@ -104,7 +102,7 @@ h1, h2, h3 {
   color: #333CFF;
 }
 .remark-slide-number {
-  color: #000000;
+  color: #FCFDFF;
   opacity: 1;
   font-size: 0.9rem;
 }
@@ -152,10 +150,10 @@ a, a > code {
   float: left;
 }
 .left-column h2, .left-column h3 {
-  color: #00000099;
+  color: #333CFF99;
 }
 .left-column h2:last-of-type, .left-column h3:last-child {
-  color: #000000;
+  color: #333CFF;
 }
 .right-column {
   width: 75%;
@@ -192,7 +190,7 @@ th, td {
   padding: 5px;
 }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) {
-  background: #D6D8FF;
+  background: #E5E5E5;
 }
 table.dataTable tbody {
   background-color: var(--background-color);
@@ -202,7 +200,7 @@ table.dataTable.display tbody tr.odd {
   background-color: var(--background-color);
 }
 table.dataTable.display tbody tr.even {
-  background-color: #D6D8FF;
+  background-color: #E5E5E5;
 }
 table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   background-color: rgba(255, 255, 255, 0.5);
@@ -283,17 +281,5 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 }
 .bg-secondary {
   background-color: var(--secondary);
-}
-.white {
-  color: var(--white);
-}
-.bg-white {
-  background-color: var(--white);
-}
-.black {
-  color: var(--black);
-}
-.bg-black {
-  background-color: var(--black);
 }
 

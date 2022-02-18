@@ -31,7 +31,7 @@ knitr::opts_chunk$set(
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
-style_duo_accent(
+style_duo(
   primary_color = "#000000",
   secondary_color = "#333CFF",
   inverse_header_color = "#FFFFFF"
@@ -286,7 +286,7 @@ class: center, middle
 
 Tourism is unique among every human enterprise in that impacts on the entire Sustainable Development Goal [Agenda](https://www.unwto.org/tourism-in-2030-agenda)
 
->**Clearly, given Tobago's business model this is ours to do now...!**
+>**Clearly, given Tobago's business model post COVID, this is ours to do now...!**
 
 ]
 
