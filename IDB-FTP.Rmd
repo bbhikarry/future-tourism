@@ -187,11 +187,9 @@ class: center, middle
 
 ## Of importance
 
-What do the beneficiary destinations get?
+Each destination selected will obtain in 11 months:
 
-Each destination selected will obtain:
-
-- A **personalized diagnosis of its level of technological readiness**, based on its main challenges (*prioritized by the destinations themselves*); 
+- A **personalized diagnosis of its level of technological readiness**, based on its main challenges (*and prioritized by the destinations themselves*); 
 
 - **A detailed action and pre-investment plan** (*agreed between the public and private sector*) to accelerate technological assimilation at the destination. 
 
@@ -211,7 +209,7 @@ Applicant (beneficiary destinations) must have;
 
 1. a diagnosis of the destination (*ESG considerations*)
 
-1. a tourism plan that is in force
+1. a tourism plan in force
 
 .footnote[More than one application allowed per country. Meaning Trinidad can apply also.]
 
