@@ -1,6 +1,6 @@
 ---
-title: "The Future Tourism Technology Program"
-subtitle: "Accelerating technology adoption and innovative use in Latin America and the Caribbean"  
+title: "Briefing THA's Tourism, Culture, Antiquities and Transportation Div"
+subtitle: "On near term opportunities and managing risks"  
 author: 
   - "Bertrand Bhikarry"
   - "Sean McCoon"
@@ -94,7 +94,7 @@ thata <-"Tobago Hotel and Tourism Association"
 
 ```{r xaringan-logo, echo=FALSE}
 xaringanExtra::use_logo(
-  image_url = "https://drive.google.com/uc?export=view&id=11GveNpJ7VdDl4t1pUGszDuM10P-KCMaB"
+  image_url = "https://drive.google.com/uc?export=view&id=1bGdksPPXUGUGtrIKokOJExEw1lxG3GYn"
 )
 ```
 
@@ -109,20 +109,28 @@ xaringanExtra::use_panelset()
 ```{r xaringanExtra, echo=FALSE}
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 ```
-## Pushing techy tourism
+## Before we dive
 
-Tourism is the sector most affected by COVID. **Recovery** will accelerate tourism. To sustain that growth however will require tech. It's time to gauge our technological readiness and move on from there.  
+- These are slides. The left and right arrow keys are your friend
 
->Sharing **IDB**'s  [call to accelerate technology](https://convocatorias.iadb.org/en/integracion-turistica/future-tourism-program-diagnoses-level-technological-readiness-tourism) in the tourism destinations of Latin America and the Caribbean
+- What follows is not an exhaustive list of Calls for Proposals
 
-![](IDB-FTP_files/figure-html/ftp.png)
+- Email bertrand@bhikarry.net for clarifications where required
+
+
 
 ---
-layout: false
+## Let's discuss [IDB's call to up-tech](https://convocatorias.iadb.org/en/integracion-turistica/future-tourism-program-diagnoses-level-technological-readiness-tourism) LAC tourism
+
+>Tourism is the sector most affected by COVID. "Recovery" will see a rebound. To sustain growth however technological readiness is key. How ready are we? 
+
+![](IDB-FTP_files/figure-html/ftp.png)
+???
+Good time as any to introduce myself as ET, businessman and sailor.
+---
 class: center, middle
 
-
-## The Frame
+## Context
 
 >"Towards the resolution of resilience, competitiveness, and socio-environmental sustainability challenges in LAC tourist destinations. As well as to stimulate coordination of the regional tourism ecosystem".
 
@@ -130,15 +138,14 @@ In other words: **The rising tide lifts all ships**
 
 ## On Offer
 
-An IDB technical support grant. This is a not a financial grant 
+An IDB technical support grant. *This is a not a financial grant* 
 
 
 ---
-layout: false
 
 ## The IDB footprint
 
-<center><img src="IDB-FTP_files/figure-html/pppcountries.png" alt="Borrower countries" height="450px" /></center>
+<center><img src="IDB-FTP_files/figure-html/pppcountries.png" alt="Borrower countries" height="450px"/></center>
 
 ---
 
@@ -182,14 +189,12 @@ $0
 <!--- briefing link best obtained by registering--->
 .footnote[This Technical Cooperation (TC) aims to generate **methodological and operational** instruments that contribute to the digitization of the LAC tourism sector to reactivate tourism activity under the new context posed by the COVID19 pandemic. As well as to respond to sectoral challenges of structure.]
 ---
-layout: false
-class: center, middle
 
 ## Of importance
 
 Each destination selected will obtain in 11 months:
 
-- A **personalized diagnosis of its level of technological readiness**, based on its main challenges (*and prioritized by the destinations themselves*); 
+- A **personalized diagnosis of its level of technological readiness**, based on its main challenges (*and prioritized by the destinations themselves*)
 
 - **A detailed action and pre-investment plan** (*agreed between the public and private sector*) to accelerate technological assimilation at the destination. 
 
@@ -205,13 +210,13 @@ Applicant (beneficiary destinations) must have;
 
 1. duly signed letters of interest from key stakeholder groups
 
-1. at least two persons from Tobago to work with the IDB team.
+1. at least two persons from Tobago to work with the IDB team
 
 1. a diagnosis of the destination (*ESG considerations*)
 
 1. a tourism plan in force
 
-.footnote[More than one application allowed per country. Meaning Trinidad can apply also.]
+.footnote[More than one application allowed per country. Meaning Trinidad can also apply.]
 
 ---
 
@@ -233,12 +238,10 @@ Applications will be evaluated and scored (*closest to 60 pts*)
 ]
 ]
 
-
-
 ---
 layout: false
 
-## Quick check 
+## Quick due diligence
 
 Does this programme
 
@@ -250,7 +253,7 @@ Does this programme
 
 1. <input type= "checkbox" checked> serve visitor interests?</input>
 
-.footnote[Developmental outlook is best served by seeing to Environmental, Social and Governance matters ]
+.footnote[*Development is best served by prioritising the triple bottom line i.e things ESG* ]
 
 ---
 class: center, middle
@@ -259,33 +262,195 @@ class: center, middle
 
 <dl>
   <dt>The application has to be sent by March 30</dt>
-    <dd><strong>Who leads this?</strong>?</dd>
+    <dd><strong>Who leads this</strong>?</dd>
 </dl>
 ???
-let's talk some on why ET can and should do this . but for a retainer for 1 year.
+let's talk some on why ET can/should do this. But for a retainer for 1 year.
 ---
-class: center, middle
+class: left, middle
 
 ## Discussion point 2
+ 
 
 <dl>
-  <dt>What is the 'Diagnosis'?</dt>
-  <dd>A tourism focused baseline assessment that takes into account strategic position, ability to compete (based on all capacities), adapt to change in timely manner, vulnerabilities etc. </dd>
+  <dt>What is in the Diagnosis for the March 30 application?</dt>
+  <dd>A tourism focused assessment taking in strategic position, ability to compete, resiliency and capacity to adapt to change in a timely manner. 
+  </dd>
+</dl>  
+
+<dl>
+  <dt>Which entity leads the process?</dt>
+  <dd>The one with the most capacity to deliver the beans post project.</dd>
 </dl>
 
-.footnote[Diagnosis: Provided by the applicant, it will guide the consultants. (* which can include two or more persons from Tobago*)]
+.footnote[ *Environment Tobago/Bertrand Bhikarry will be pleased to manage the application for the Division*.]
 
 ---
-class: center, middle
+
+class: inverse center middle
+
+## Projects 
+???
+Just talk about the value of projects in bringing everyone together and equally and importantly the capacity building aspect for Tobagonians
+
+Do mention nobody minds if THA gets the implementation role and the credit.
+---
+layout:false
+## Collaboration is Key
+
+.pull-left[
+<img src="https://drive.google.com/uc?export=view&id=1JIzqCE9LhP8URgM-rY2H3tCvmLyEzFBx" height="350px"/>
+]
+
+.pull-right[
+<img src="https://drive.google.com/uc?export=view&id=1VVIWmGpKYLbKgo9fXleBpCtxuqWtsCo_" height="350px"/>
+ ]
+
+.footnote[*THA may want to reinvigorate the Environmental Partnership to position the island for Climate or Recovery finance from international sources*]
+
+---
+## MPAs, Area-Based Management, Blue Economy. 
+
+
+![](IDB-FTP_files/figure-html/oic.png)
+#### The Challenge (or RFP)
+
+Focusses on SDG 14. Initial concepts may be submitted by public or private entities, including governments (including start-ups), NGOs & CSOs, UN entities, academic institutions and intergovernmental organizations.
+
+Requests can range from 50,000 USD to 250,000 USD and project time frames can range from one to two years. Call closes April 9th 2022.
+---
+## Framework
+.pull-left[![](IDB-FTP_files/figure-html/E_GIF_14_0.gif)]
+
+
+.pull-right[From pollution to overfishing to climate change, two-thirds of the global ocean is negatively impacted by human activities. To recover and benefit from the broad range of ecosystem services the ocean provides we need to move to ecosystem-based management of marine ecosystems that are integrated, cross-sectoral and highly participatory.  
+
+Project proposals must be implemented in developing countries but may be submitted by applicants from anywhere.<!-- All proposals should include a special focus on gender mainstreaming, livelihood creation, and poverty reduction.--> Concepts passing initial review and meeting OIC criteria will be invited to submit full proposals for further internal and external review and consideration. ]
+
+---
+
+## Introducing [Lagoon Pacemaker](https://sites.google.com/environmenttobago.net/lagoonpacemaker/details/projectdetails/executive-summary) 
+<center><img src="IDB-FTP_files/figure-html/lagoon_sectioned.png" height="400px"/></center>
+<!--
+.footnote[*In addition to its obvious functions Pacemaker will also help with stakeholder acceptance of Marine Park Co-management*.]-->
+
+---
+## Blue Tourism Pilot project
+
+![](https://drive.google.com/uc?export=view&id=1b5UlFmADTASRmGmojXg4_LwqPC0kVe4r)
+
+.footnote[&nbsp;**Happy Tobago waterbabies demonstrate sustainable and safe recreation - ain't no jetskis @Mt Irvine Bay Watersports**]
+---
+## Blue Tourism quick reminder
+
+A French Global Environment funded (FGEF) pilot project seeking to identify sustainable practice in the marine tourism sub-sector within the Mediterranean, Caribbean and West Indian Ocean. Its scheduled to run over 4 years beginning July 2022 with a budget of 4,325.900 euro.
+
+#### Objectives (All countries)
+
+1. Draw up an inventory of coastal tourism, to survey the changes desired by its actors and to identify possible synergies for a sustainable management of blue tourism
+
+2. To orient local tourism development strategies towards sustainable blue tourism in pilot sites
+
+3. To support the implementation of action plans and fund pilot projects in pilot sites
+
+4. To monitor, evaluate and capitalise on the local implementation of exemplary blue tourism projects initiated by civil society actors
+
+5. To integrate sustainable tourism on a regional scale, to share feedback and to raise awareness among stakeholders
+
+---
+## Components
+.panelset[
+.panel[.panel-name[Component 1]
+*Short name: Diagnosis*  
+
+Assess the economic, environmental and social impacts of the Covid crisis on tourism at different scales and identify levers for a sustainable recovery
+
+The tourism sector is deeply affected by the current health crisis, particularly in economic and social terms. The aim is to establish a diagnosis of some of these impacts on a global scale and in the three regions targeted, and to identify levers for a sustainable recovery of the sector. A methodological approach and a set of best practices for implementing sustainable blue tourism management will conclude these diagnoses. <!--Then, a specific diagnosis will be conducted at each identified pilot sites, including a specific adaptation of the blue tourism implementation methodology.-->
+
+]
+.panel[.panel-name[Component 2]
+*Short name: Pilot projects*
+ 
+Encourage the development of sustainable blue tourism at the pilot site level through the planning and implementation of pilot projects. In each pilot site, new tourism planning strategems will be set up in conjunction with public, private and civil society concerns, resulting in a road map for each site. Help will be provided for the implementation of these road maps by advising, capacity building and granting of pilot projects. This granting will finance small pilot projects of pre-selected actors on the basis of transparent selection criteria.<!--  A mechanism of calls for proposal might be set up if relevant. -->
+]
+
+.panel[.panel-name[Component 3]
+*Short name: Awareness, Communication and Feedback*
+
+Integrate sustainable tourism into the agenda of marine regions, promote the sharing of experiences and include sustainable tourism issues in the public debate
+
+
+This component aims to include sustainable tourism in the agenda of the Barcelona (Mediterranean), [Cartagena (Caribbean)](https://wedocs.unep.org/bitstream/handle/20.500.11822/27875/SPAWSTAC5_2012-en.pdf?sequence=1&amp;isAllowed=y) and Nairobi (Western Indian Ocean) conventions to enable their States Parties and regular partners (NGOs, researchers, etc.) to draw up the outlines of possible regional collaborations and strategies. Component 3 is also dedicated to Communication and Dissemination of project results to key players in global, regional and national tourism.
+]
+]
+
+---
 
 .can-edit[
+Tourism impacts on the entire Sustainable Development Goal [Agenda](https://www.unwto.org/tourism-in-2030-agenda)
 
-# END 
-
-Tourism is unique among every human enterprise in that impacts on the entire Sustainable Development Goal [Agenda](https://www.unwto.org/tourism-in-2030-agenda)
-
->**Clearly, given Tobago's business model post COVID, this is ours to do now...!**
+>#### Given the value of tourism to Tobago in the post COVID era, we need to act!
 
 ]
 
+---
+class: inverse left middle
 
+# Grant Projects
+
+
+**4 types**: Competitive, Formulaic, Renewal and Passthrough <!--(Like OIC Call) (Like Tourism properties bailout last year)(Like BHP contract)(like Com Dev passing on Heritage money to communities)-->
+
+#### Require personel
+
+- with ability to persuade, to be clear and compelling,  
+
+- to structure and edit, empathise and sell 
+
+- to be empathic to researchers 
+
+- with understanding of the funding landscape and individual sponsor requirements
+
+- ability to transform a research or even adhoc idea into a good project
+---
+## Timelime for choosing RFPs (Calls)
+
+
+.left-column[
+### International
+
+1. Dec 15th 2022-April 14th 2023
+]
+
+.right-column[
+### Local & Regional
+
+1. Aug 2022 and on
+]
+
+---
+class: center, middle
+
+## To do
+
+.panelset.sideways[
+.panel[.panel-name[Bolt up partnerships] Formal. With private, NGO and other government interests
+]
+.panel[.panel-name[Seek funding] Institutional and infrastructural; Climate and post pandemic funds are growing 
+]
+.panel[.panel-name[Fix & position] Tobago is imbued with 'Green', 'Blue' and 'Orange'. Go for it
+]
+]
+
+???
+Some thoughts.
+
+For the last 15 years the global community - especially the UN, has been lobbying, prepping for global climate finance and the whole expected slew of expenses that come with Climate Change. We need to treat this pool of money as a resource to qualify for. Barbados has. The Lewards, Latin America even the Pan African states have.
+
+Fixes should be aligned with the SDGs - as the UN has expended great effort to give the Goals more international recognition than our homespun brand 'Beyond ...' can. The SDGs should be marketed appropriately. 
+ 
+Position will come almost automatically as a result of partnerships with the various sectors local regional and international. 
+---
+## Thoughts to travel with
+
+<center><img src="IDB-FTP_files/figure-html/giphy.gif" height="400px"/></center>
