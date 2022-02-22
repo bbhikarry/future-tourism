@@ -97,7 +97,9 @@ xaringanExtra::use_logo(
   image_url = "https://drive.google.com/uc?export=view&id=1bGdksPPXUGUGtrIKokOJExEw1lxG3GYn"
 )
 ```
-
+```{r broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
 
 ```{r, echo=FALSE}
 xaringanExtra::use_webcam(width = 300, height = 225)
@@ -113,7 +115,7 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 
 - These are slides. The left and right arrow keys are your friend
 
-- What follows is not an exhaustive list of Calls for Proposals
+- What follows is a non-exhaustive list of Calls/Requests for Proposals
 
 - Email bertrand@bhikarry.net for clarifications where required
 
@@ -320,7 +322,8 @@ Focusses on SDG 14. Initial concepts may be submitted by public or private entit
 Requests can range from 50,000 USD to 250,000 USD and project time frames can range from one to two years. Call closes April 9th 2022.
 ---
 ## Framework
-.pull-left[![](IDB-FTP_files/figure-html/E_GIF_14_0.gif)]
+.pull-left[<img src="IDB-FTP_files/figure-html/E_GIF_14_0.gif" height="325px"/>
+]
 
 
 .pull-right[From pollution to overfishing to climate change, two-thirds of the global ocean is negatively impacted by human activities. To recover and benefit from the broad range of ecosystem services the ocean provides we need to move to ecosystem-based management of marine ecosystems that are integrated, cross-sectoral and highly participatory.  
@@ -329,8 +332,22 @@ Project proposals must be implemented in developing countries but may be submitt
 
 ---
 
-## Introducing [Lagoon Pacemaker](https://sites.google.com/environmenttobago.net/lagoonpacemaker/details/projectdetails/executive-summary) 
-<center><img src="IDB-FTP_files/figure-html/lagoon_sectioned.png" height="400px"/></center>
+## Introducing 
+.panelset.sideways[
+
+.panel[.panel-name[Lagoon Pacemaker]
+<a href="https://sites.google.com/environmenttobago.net/lagoonpacemaker/details/projectdetails/executive-summary"><img src="IDB-FTP_files/figure-html/lagoon_sectioned.png" height="400px"/></a>
+]
+
+.panel[.panel-name[What]  Lift cold water from a 10m well drilled into the lagoon (seafloor) using compressed air, distribute the resulting aerated mix into the surrounding water - but over a series of floating panels (with sea moss on top). The idea is to encourage anerobic microbiological activity.  
+
+]
+
+.panel[.panel-name[Funding] *Public Private Partnership*. See `r et` for details on Pacemaker Design, Build, Handover
+
+]
+
+]
 <!--
 .footnote[*In addition to its obvious functions Pacemaker will also help with stakeholder acceptance of Marine Park Co-management*.]-->
 
@@ -450,6 +467,20 @@ For the last 15 years the global community - especially the UN, has been lobbyin
 Fixes should be aligned with the SDGs - as the UN has expended great effort to give the Goals more international recognition than our homespun brand 'Beyond ...' can. The SDGs should be marketed appropriately. 
  
 Position will come almost automatically as a result of partnerships with the various sectors local regional and international. 
+---
+## In closing
+.left-column[#### Snapshot
+
+This presentation touches several RFPs for the Blue, Green and SMART arenas but falls far short (*intentionally*) of showing what's out there.  ]
+
+.right-column[#### Coming up
+
+Let's keep in mind the next slideshow on infrastructural class ( *non-tourism projects*), which do augment tourism + community life and can attract private investment  
+- Jetties
+- Haulout facilities
+- Regattas & Fishing tournaments
+- Goat racing]
+
 ---
 ## Thoughts to travel with
 
